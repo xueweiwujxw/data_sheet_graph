@@ -1,4 +1,5 @@
 ![macos-check](https://github.com/xueweiwujxw/data_sheet_graph/actions/workflows/macos-check.yml/badge.svg)
+![ubuntu-check](https://github.com/xueweiwujxw/data_sheet_graph/actions/workflows/ubuntu-check.yml/badge.svg)
 ![windows-check](https://github.com/xueweiwujxw/data_sheet_graph/actions/workflows/windows-check.yml/badge.svg)
 ![release](https://github.com/xueweiwujxw/data_sheet_graph/actions/workflows/release.yml/badge.svg)
 
